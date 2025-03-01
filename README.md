@@ -1,5 +1,5 @@
 ## Hi there 👋
-![](https://komarev.com/ghpvc/?username=shayudiandian)
+![](https://komarev.com/ghpvc/?username=shayudiandian&abbreviated=true)
 <!--
 **shayudiandian/shayudiandian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
